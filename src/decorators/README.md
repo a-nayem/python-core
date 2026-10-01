@@ -1,0 +1,3 @@
+# decorators
+
+Decorators and closures.
